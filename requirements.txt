@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+python-docx
+langdetect
+regex
+spacy
+en-core-web-sm
+reportlab
+openai
